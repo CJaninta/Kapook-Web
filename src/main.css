@@ -1,0 +1,16 @@
+.paperpro{
+    width : 100%;
+    height: 680px;
+    padding-left:50px;
+}
+.boxpro{
+    width : 50%;
+    height: 600px;
+    float:left;
+}
+
+.boxuser{
+    padding-left: 12%;
+    width : 100%;
+    height: 300px;
+}
