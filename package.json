@@ -2,6 +2,7 @@
   "name": "basic-web-react-router",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Chawalit-janinta.github.io/Kapook-Web/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "jquery": "^3.4.1",
